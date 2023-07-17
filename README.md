@@ -1,6 +1,6 @@
 # Recursion
 
-Implementation of functions fibonacci and mergeSort with JavaScript.
+Implementation of functions [fibonacci](fibonacci.js) and [mergeSort](mergeSort.js) with JavaScript.
 
 The goal was practice the recursion in functions.
 
